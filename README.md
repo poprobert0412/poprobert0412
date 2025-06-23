@@ -19,6 +19,6 @@ Now, I’m looking to transition full-time into the **QA field**, where I can ap
 **Let’s connect!**  
 * 🌍  Based in: **Brașov, Romania**  
 * ✉️  Email: [poprobert1999@yahoo.com](mailto:poprobert1999@yahoo.com)  
-* 🧪  Open to: **Full-time Manual QA roles**  
+* 🧪  Open to: **Full-time Automation/Manual QA roles**  
 * 🚀  Goal: **Develop further into QA Automation**  
 * 📄  Europass CV available on request
