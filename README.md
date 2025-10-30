@@ -5,15 +5,6 @@
 
 Junior QA Tester 🧪 | ISTQB-Certified 📜 | Based in Brașov, Romania 🇷🇴  
 ----------------------------------------------------------------------------------------------------------------------
-
-I am a highly motivated Junior QA Tester with a strong passion for software quality , continuous learning , and effective teamwork . Currently, I own and manage a ride-sharing business on Uber and Bolt , where I oversee operations, coordinate drivers, manage finances, and ensure customer satisfaction 😊👍. This experience has honed my skills in coordination, problem-solving, and decision-making, all directly transferable to QA.
-
-In 2024, I completed a comprehensive Python Programming 🐍💻 and QA course 🎓 with The IT Factory Group, focusing on manual and automated testing using Python, Selenium, and BDD frameworks. Shortly afterward, I earned the ISTQB Foundation Level certification 📜✅, deepening my knowledge of structured testing processes and industry best practices 📈🔍.
-
-I am now eager to transition full-time into the QA field, leveraging my technical skills  and leadership experience within a collaborative and innovative team. I have a particular interest in test automation and am committed to continuously improving both products and processes .
-
----
-
 **Why work with me?**  
 - Strong foundation in testing principles and tools 🏗️🧪  
 - Entrepreneurial mindset and real-world leadership experience 💼💡  
@@ -28,3 +19,6 @@ I am now eager to transition full-time into the QA field, leveraging my technica
 * 🧪  Open to: **Full-time Automation/Manual QA roles** 💻🤖  
 * 🚀  Goal: **Develop further into QA Automation** 🔥🤖  
 * 📄  Europass CV available on request 📑
+
+**Counter start date - June 2024**  
+![](https://komarev.com/ghpvc/?username=poprobert0412&label=PROFILE+VIEWS)
