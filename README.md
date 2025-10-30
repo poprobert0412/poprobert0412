@@ -20,5 +20,5 @@ Junior QA Tester 🧪 | ISTQB-Certified 📜 | Based in Brașov, Romania 🇷�
 * 🚀  Goal: **Develop further into QA Automation** 🔥🤖  
 * 📄  Europass CV available on request 📑
 
-**Counter start date - June 2024**  
+**Counter start date - November 2025**  
 ![](https://komarev.com/ghpvc/?username=poprobert0412&label=PROFILE+VIEWS)
