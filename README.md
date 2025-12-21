@@ -1,7 +1,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&random=false&width=650&height=250&lines=Hello+there%F0%9F%91%8B;I'm+Robert!%F0%9F%91%8D" alt="Typing SVG" /></a>
 
-<h3 align="left"> I am deeply captivated by exploring the field of software testing , and I am determined to leverage my experience and continuous desire for learning  towards this goal. I am fascinated by the role of software testing in enhancing the quality of products , and my determination is to make significant contributions in this domain. 💪✨</h3>
+<h3 align="left"> I am strongly driven to explore the field of Artificial Intelligence and Machine Learning, and I am committed to leveraging my experience, curiosity, and continuous learning to advance in this direction. I am fascinated by the impact AI has on innovation and real-world problem solving, and I am determined to make meaningful contributions in this domain. 💪✨</h3>
 
 **Let’s connect!**  
 * 🌍  Based in: **Brașov, Romania** 🇷🇴  
