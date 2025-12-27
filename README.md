@@ -14,9 +14,7 @@ I am strongly driven to explore the field of Artificial Intelligence and Machine
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=poprobert0412&icon=0&color=0)](https://visitcount.itsvg.in)
-
 **Counter start date - November 2025**  
 ![](https://komarev.com/ghpvc/?username=poprobert0412&label=PROFILE+VIEWS)
