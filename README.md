@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am strongly driven to explore the field of Artificial Intelligence and Machine Learning, and I am committed to leveraging my experience, curiosity, and continuous learning to advance in this direction. I am fascinated by the impact AI has on innovation and real-world problem solving, and I am determined to make meaningful contributions in this domain. 💪✨
 
-I also build interactive web applications — my latest project is **[⚡ JavaScript Playground](https://poprobert0412.github.io/Javascript-Playground/)**, a full learning platform with 17+ pages, lessons, quizzes, code puzzles, flashcards, and achievements!
+I also build interactive web applications — my latest project is **[⚡JavaScript Playground](https://github.com/poprobert0412/Javascript-Playground)**, a full learning platform with 17+ pages, lessons, quizzes, code puzzles, flashcards, and achievements!
 
 ## 🚀 Featured Project
 [![JavaScript Playground](https://img.shields.io/badge/⚡_JavaScript_Playground-LIVE-00d2ff?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/poprobert0412/Javascript-Playground)
