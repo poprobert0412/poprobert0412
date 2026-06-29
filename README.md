@@ -9,7 +9,7 @@ I also build interactive web applications — my latest project is **[⚡JavaScr
 > 🎯 17 pagini interactive | 📖 19 lecții | ✏️ 18 exerciții | 🧩 Code Puzzle | 🃏 Flashcards | 🏆 Achievements | 📊 Dashboard
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PopRobert99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poprobert0412) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poprobert1999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poprobert0412@yahoo.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PopRobert0412) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poprobert0412) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poprobert1999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poprobert0412@yahoo.com) 
 
 # 💻 Tech Stack:
 
