@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Robert Pop 👋</h1>
-<h3 align="center">Software Developer · Backend / AI / Full-Stack · Brașov, Romania</h3>
+<h3 align="center">Full-Stack Developer · Backend / Frontend / AI · Brașov, Romania</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/poprobert1999/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About me
 
-I build backend systems and applied-AI features, mostly in **Python** and **TypeScript**.
+I'm a full-stack developer working mostly in **Python** and **TypeScript**, with a focus on AI features.
 
-- 💼 **Now:** main backend developer on a production AI platform that turns a set of source PDFs into large, fully formatted documents — **Python · FastAPI · PostgreSQL (Supabase) · multi-stage LLM pipelines**. I designed the backend architecture and the JSON configuration layer that drives the whole pipeline, and built the geospatial-search, web-grounding, metadata-extraction and verbatim-extraction modules.
+- 💼 **Now:** full-stack developer and maintainer of a production AI platform that turns a set of source PDFs into large, fully formatted documents — backend in **Python · FastAPI · PostgreSQL (Supabase) · multi-stage LLM pipelines**, frontend in **React / TypeScript**. I designed the backend architecture and the JSON configuration layer that drives the whole pipeline, and built the geospatial-search, web-grounding, metadata-extraction and verbatim-extraction modules.
 - 🎬 **Side project:** [Nexus Movie AI](https://nexusmovieai.com) — a bilingual movie / TV encyclopedia with semantic search and AI reviews, designed, built and deployed on my own.
-- 🧠 **How I work:** I come from software testing (**ISTQB® CTFL**) — I start from the failure modes, make correctness a property of the code rather than of a prompt, and verify before I claim.
+- 🔍 **Background:** software testing (**ISTQB® CTFL**) — I like to pay attention to the smallest details.
 - 📚 **Learning now:** C++ fundamentals · Databases & SQL (Coursera)
 
 ## 🚀 Featured projects
@@ -59,9 +59,6 @@ Bilingual (RO / EN) movie, TV and actor encyclopedia with AI features. Solo proj
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=poprobert0412&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 <p align="center">
