@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Robert Pop 👋</h1>
+<h1 align="center">Hi, I'm Pop Robert 👋</h1>
 <h3 align="center">AI Software Engineer · Python / Backend / AI · Brașov, Romania</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 I'm a software developer working mostly in **Python** , with a focus on AI.
 
-- 💼 **Now:** part of a team developing an **AI document platform for public procurement**: expert technical documentation in, legally binding 100–200+ page documents out — **custom agentic workflows over Google Gemini** (structured JSON outputs, context caching, per-stage reasoning budgets), an automated QA stage, and formatted DOCX output — on a configuration-driven architecture. Involved from the early prototype stages, **I've completed the core implementation**: the **Python backend (FastAPI · PostgreSQL / Supabase)**, the JSON configuration architecture, the **agentic workflow layer** (model routing, structured outputs, context caching, prompt refinement over the Gemini API), the extraction / grounding / geospatial / metadata modules and the DOCX output — plus bug fixes and the testing of the React / TypeScript frontend.
+- 💼 **Now:** part of a team developing an **AI document platform for public procurement**: expert technical documentation in, legally binding 100–200+ page documents out — **custom agentic workflows over Google Gemini** (structured JSON outputs, context caching, per-stage reasoning budgets), an automated QA stage, and formatted DOCX output — on a configuration-driven architecture. Involved from the early prototype stages, **I've completed the core implementation**: the **Python backend (FastAPI · PostgreSQL / Supabase)**, the JSON configuration architecture, the **agentic workflow layer** (model routing, structured outputs, context caching, prompt refinement over the Gemini API, plus hands-on testing of self-hosted models while evaluating options for the app), the extraction / grounding / geospatial / metadata modules and the DOCX output — plus bug fixes and the testing of the React / TypeScript frontend.
 - 🎬 **Side project:** [Nexus Movie AI](https://nexusmovieai.com) — a bilingual movie / TV encyclopedia with semantic search and an AI assistant for what to watch, designed, built and deployed on my own. I'm also starting to build websites for other people on the side.
 - 🔍 **Background:** software testing (**ISTQB® CTFL**) — I like to pay attention to the smallest details.
 - 📚 **Learning now:** C++ fundamentals · SQL and databases with Supabase (Coursera)
