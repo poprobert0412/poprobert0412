@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Robert Pop 👋</h1>
-<h3 align="center">Full-Stack Developer · Backend / Frontend / AI · Brașov, Romania</h3>
+<h3 align="center">Software Developer · Python / Backend / AI · Brașov, Romania</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/poprobert1999/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About me
 
-I'm a full-stack developer working mostly in **Python** and **TypeScript**, with a focus on AI features.
+I'm a software developer working mostly in **Python** and **TypeScript**, with a focus on AI.
 
-- 💼 **Now:** full-stack developer and maintainer of a production AI platform that turns a set of source PDFs into large, fully formatted documents — backend in **Python · FastAPI · PostgreSQL (Supabase) · multi-stage LLM pipelines**, frontend in **React / TypeScript**. I designed the backend architecture and the JSON configuration layer that drives the whole pipeline, and built the geospatial-search, web-grounding, metadata-extraction and verbatim-extraction modules.
-- 🎬 **Side project:** [Nexus Movie AI](https://nexusmovieai.com) — a bilingual movie / TV encyclopedia with semantic search and AI reviews, designed, built and deployed on my own.
+- 💼 **Now:** developer and maintainer of a platform that handles the generation of legally binding technical documentation for procurement in state projects — Python backend (**FastAPI · PostgreSQL (Supabase) · custom agentic workflows**), bug fixes, new modules and the testing of the **React / TypeScript** frontend. I designed the JSON configuration layer that drives the workflow, and built the geospatial-search, web-grounding, metadata-extraction and verbatim-extraction modules.
+- 🎬 **Side project:** [Nexus Movie AI](https://nexusmovieai.com) — a bilingual movie / TV encyclopedia with semantic search and an AI assistant for what to watch, designed, built and deployed on my own. I'm also starting to build websites for other people on the side.
 - 🔍 **Background:** software testing (**ISTQB® CTFL**) — I like to pay attention to the smallest details.
-- 📚 **Learning now:** C++ fundamentals · Databases & SQL (Coursera)
+- 📚 **Learning now:** C++ fundamentals · SQL and databases with Supabase (Coursera)
 
 ## 🚀 Featured projects
 
@@ -23,8 +23,8 @@ Bilingual (RO / EN) movie, TV and actor encyclopedia with AI features. Solo proj
 
 - **FastAPI** backend in Python (71 endpoints) · **Next.js 16 / React 19** frontend in TypeScript
 - **Semantic search inside PostgreSQL** (pgvector) — search by describing a plot, not by knowing the title
-- **AI-generated reviews** for every title (score, analysis, strengths / weaknesses, mood tags), generated once in the background and served from the database
-- **Conversational recommender** that resolves every film it names against the real catalog
+- **AI assistant on every title's page** — ask anything about that film or series
+- **“What should I watch tonight?” assistant** — AI recommendations in prose, with every film it names resolved against the real catalog
 - ~12,800 movies · 7,500 series · 3,400 actors, enriched and reconciled from five third-party APIs
 - **Docker + GitHub Actions CI/CD** on a VPS behind Caddy and Cloudflare, with post-deploy health checks and automatic rollback
 
@@ -34,7 +34,7 @@ Bilingual (RO / EN) movie, TV and actor encyclopedia with AI features. Solo proj
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![LLM pipelines](https://img.shields.io/badge/LLM_pipelines-8A2BE2?style=for-the-badge)
+![Agentic workflows](https://img.shields.io/badge/Agentic_workflows-8A2BE2?style=for-the-badge)
 ![Prompt engineering](https://img.shields.io/badge/Prompt_engineering-5A31F4?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge)
 
